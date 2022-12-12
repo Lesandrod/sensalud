@@ -1,0 +1,103 @@
+#titulo{
+    padding-left: 25px;
+}
+
+#carde{
+    max-width: 510px;
+}
+.card1 {
+    float: left;
+    width: 30%;
+    margin: 0 2% 2% 0;
+  }
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    height: 20px;
+    width: 30px;
+
+}
+
+#conte{
+    display: flex ; 
+    align-items: center;
+    justify-content: center;
+
+}
+#contenedor1
+{
+    width: 70%;
+    height: auto;
+    display: flex !important; 
+    justify-content: center;
+    text-align: justify;
+    align-items: center;
+    margin-top: 67px;
+  
+
+} 
+#contenedor2
+{
+    width: 70%;
+    height: auto;
+    display: flex ; 
+    justify-content: center;
+    
+    align-items: center;
+    margin-top: 207px;
+    flex-direction: column;
+  
+
+} 
+
+hr{
+    color: rgb(124, 6, 6);
+}
+#borde{
+    border-radius: 23px;
+    border: 1.5px solid rgb(124, 6, 6);
+}
+#barra a:hover{
+    color: rgb(209, 24, 24);
+
+}
+#barra a{
+    font-family: 'Montserrat';
+}
+.espacio{
+    width: 100%;
+    height: 4.5em;
+}
+#barra{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    padding: 10px;
+    
+}
+#contenedor
+{
+    width: 70%;
+    height: auto;
+    display: flex !important; 
+    justify-content: center;
+    
+    align-items: center;
+
+}
+.espa{
+    margin-top: 80px;
+}
+#contenedor #justi{
+    text-align: justify;
+}
+
